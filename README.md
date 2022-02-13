@@ -1,1 +1,0 @@
-# ctetezpurtrainees.github.io
