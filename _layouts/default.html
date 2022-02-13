@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: " en-US" }}">
+
+<head>
+    <meta charset="UTF-8">
+
+    {% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style"
+        type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+</head>
+
+<body>
+    <header class="page-header" role="banner">
+        <nav>
+            <!-- <a href="{{ site.url }}/about" class="btn">About</a>
+            <a href="{{ site.url }}/gubedcet21" class="btn">GU B.Ed. CET 2021</a>
+            <a href="{{ site.url }}/gallery" class="btn">Gallery</a>
+            {% if site.github.is_project_page %}
+            <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+            {% endif %}
+            {% if site.show_downloads %}
+            <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+            <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
+            {% endif %} -->
+            {% include breadcrumbs.html %}
+        </nav>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+        <p id="page-title">{{ page.title }}</p>
+
+        <div>
+            {% include toc.html html=content h_max=1 %}
+        </div>
+
+        {% if page.learning_intentions %}
+        {% if page.success_criteria %}
+        <div id="lisc">
+            {% include lisc.html learning_intentions=page.learning_intentions success_criteria=page.success_criteria %}
+        </div>
+        {% endif %}
+        {% endif %}
+
+        {{ content }}
+
+        <footer class="site-footer">
+            {% if site.github.is_project_page %}
+            <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name
+                    }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name
+                    }}</a>.</span>
+            {% endif %}
+            <span class="site-footer-credits">for removal/submission of content <a href="mailto:sbus+osm@simplelogin.co">e-mail me</a><br>Copied and Pasted by (2*root2)^4 </span>
+			<!-- Code Credit:https://github.com/onslowcollege/  -->
+        </footer>
+    </main>
+</body>
+
+</html>
