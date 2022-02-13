@@ -29,7 +29,7 @@ title: Gallery
 > ![CTE Tezpur Trainees](/thumbnails/hall/36.webp "Trainees")
 > ![CTE Tezpur Trainees](/thumbnails/hall/37.webp "Trainees")
 > ![CTE Tezpur Trainees](/thumbnails/hall/38.webp "Trainees")
-> ![CTE Tezpur Trainees](/thumbnails/hall/99.webp "Trainees")
+> ![CTE Tezpur Trainees](/thumbnails/hall/39.webp "Trainees")
 > ![CTE Tezpur Trainees](/thumbnails/hall/40.webp "Trainees")
 > ![CTE Tezpur Trainees](/thumbnails/hall/41.webp "Trainees")
 > ![CTE Tezpur Trainees](/thumbnails/hall/42.webp "Trainees")
