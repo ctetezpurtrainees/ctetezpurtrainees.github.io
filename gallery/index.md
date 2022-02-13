@@ -38,7 +38,6 @@ title: Gallery
 > ![CTE Tezpur Trainees](/thumbnails/hall/45.jpg "Trainees")
 > ![CTE Tezpur Trainees](/thumbnails/hall/46.jpg "Trainees")
 > ![CTE Tezpur Trainees](/thumbnails/hall/47.jpg "Trainees")
-
 ## Salad Competition (12-02-2022)
 > ![CTE Tezpur Trainees](/thumbnails/hall/19.jpg "Salad Competition")
 > ![CTE Tezpur Trainees](/thumbnails/hall/20.jpg "Salad Competition")
