@@ -31,4 +31,3 @@ title: Gallery
 > ![CTE Tezpur Trainees](/thumbnails/hall/27.jpg "Salad Competition")
 > ![CTE Tezpur Trainees](/thumbnails/hall/28.jpg "Salad Competition")
 > ![CTE Tezpur Trainees](/thumbnails/hall/29.jpg "Salad Competition")
-> ![CTE Tezpur Trainees](/thumbnails/hall/30.jpg "Salad Competition")
