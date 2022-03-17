@@ -1,4 +1,4 @@
-{% assign hide_title_pages = "/about/|/gubedcet21/|/gallery/" | split: "|" %}
+{% assign hide_title_pages = "/about/|/gubedcet21/|/blog/|/gallery/" | split: "|" %}
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
 
 <div id="breadcrumbs">
@@ -11,6 +11,9 @@
     </a>
     <a href="/gubedcet21">
       <image src="/img/data.png" height=64>
+    </a>
+	<a href="/blog">
+      <image src="/img/blog.png" height=64>
     </a>
     <a href="/gallery">
       <image src="/img/gallery.png" height=64>
