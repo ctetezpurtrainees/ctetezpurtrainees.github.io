@@ -13,3 +13,4 @@ title: Gallery
 > ![CTE Tezpur Trainees](/thumbnails/hall/27.webp "Salad Competition")
 > ![CTE Tezpur Trainees](/thumbnails/hall/28.webp "Salad Competition")
 > ![CTE Tezpur Trainees](/thumbnails/hall/29.webp "Salad Competition")
+> **Copyright belongs to the original owner(s) of the images.**

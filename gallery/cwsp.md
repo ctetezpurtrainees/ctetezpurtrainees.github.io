@@ -38,3 +38,6 @@ title: Gallery
 > ![CTE Tezpur Trainees](/thumbnails/hall/45.webp "Trainees")
 > ![CTE Tezpur Trainees](/thumbnails/hall/46.webp "Trainees")
 > ![CTE Tezpur Trainees](/thumbnails/hall/47.webp "Trainees")
+> Google Drive Link:
+> [Link 1](https://drive.google.com/drive/folders/1DdEH2WyJHg5KJZe7b92Tgi7zXXWnUnbk?usp=sharing)
+> **Copyright belongs to the original owner(s) of the images.**
