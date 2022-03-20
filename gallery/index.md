@@ -5,4 +5,4 @@ title: Gallery
 
 ## [Salad Competition (12-02-2022)](/gallery/sc)
 
-## [Freshmen Social Cum Prize Distribution Ceremony] (15-02-2022)(/gallery/freshers)
+## [Freshmen Social Cum Prize Distribution Ceremony (15-02-2022)](/gallery/freshers)
