@@ -7,5 +7,5 @@ title: About
 >
 > Govt.College of Teacher Education (CTE), Tezpur
 > <br>P.O.: Nikamul<br>District: Sonitpur (Assam)
-> Pin : 784001
+> Pin : 784001<br/>
 [College Anthem](https://ctetezpurtrainees.github.io/ca/)
