@@ -2,7 +2,7 @@
 title: About
 ---
 
-### This is a simple static GitHub page for the Trainees of Govt. College of Education (CTE), Tezpur.
+### This is a simple static GitHub page for the B.Ed. Trainees of Govt. College of Education (CTE), Tezpur.
 > Address:
 >
 > Govt.College of Teacher Education (CTE), Tezpur
