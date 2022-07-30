@@ -4,22 +4,22 @@
 <div id="breadcrumbs">
   <div class="breadcrumbs-left">
     <a href="/">
-      <image src="/img/home.png" height=64>
+      <image src="/img/home.png" height=42>
     </a>
     <a href="/about">
-      <image src="/img/info.png" height=64>
+      <image src="/img/info.png" height=42>
     </a>
     <a href="/gubedcet21">
-      <image src="/img/data.png" height=64>
+      <image src="/img/data.png" height=42>
     </a>
 	<a href="/blog">
-      <image src="/img/blog.png" height=64>
+      <image src="/img/blog.png" height=42>
     </a>
     <a href="/gallery">
-      <image src="/img/gallery.png" height=64>
+      <image src="/img/gallery.png" height=42>
     </a>
 	<a href="/forum">
-      <image src="/img/forum.png" height=64>
+      <image src="/img/forum.png" height=42>
     </a>
 	
   </div>
@@ -31,7 +31,7 @@
       <a href="#">
         {% assign target_path = crumb_name | prepend: '/img/' | append: '.svg' %}
         {% assign file_exists = site.static_files | where: "path", target_path | first %}
-        <image src="{% if file_exists %}{{ target_path }}{% else %}/img/page.svg{% endif %}" height=64></image><span
+        <image src="{% if file_exists %}{{ target_path }}{% else %}/img/page.svg{% endif %}" height=42></image><span
           class="breadcrumb-text">{{ page.title }}</span>
       </a>
     </div>
